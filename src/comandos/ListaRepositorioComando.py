@@ -1,4 +1,6 @@
-class ListaRepositorioComando(ChildProcessError):
+from src.comandos.Comando import Comando
+
+class ListaRepositorioComando(Comando):
     def __init__(self, servico):
         self.servico = servico
 
