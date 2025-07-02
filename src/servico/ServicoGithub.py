@@ -8,7 +8,7 @@ class ServicoGithub:
 
     def listar_repositorios(self):
         try:
-            return [repositorio.nomes for repositorio in self.usuario.get_repos()]   
+            return [repositorio.name for repositorio in self.usuario.get_repos()]   
 
         except GithubException as e:
             print(f"Falha ao listar repositórios: {e}")
