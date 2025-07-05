@@ -1,5 +1,3 @@
-# tests/src/comandos/test_criar_readme_comando.py
-
 import unittest
 from unittest.mock import MagicMock, patch
 from src.comandos.CriarReadmeComando import CriarReadmeComando
