@@ -71,7 +71,7 @@ python app.py
 
 # Para sair do ambiente virtual
 deactivate
-
+```
 
 ## Contribuição:
 
@@ -83,6 +83,7 @@ Este projeto é licenciado sob a Licença MIT.
 
 ## Comandos importantes:
 
+```bash
 python -m venv venv               # Cria um ambiente virtual
 venv\Scripts\activate             # Ativa o ambiente no Windows
 source venv/bin/activate          # Ativa o ambiente no Linux/macOS
@@ -94,3 +95,4 @@ pip freeze > requirements.txt     # Gera (ou atualiza) o arquivo de dependência
 pip install -r requirements.txt   # Instala pacotes listados no requirements.txt
 pip list                          # Lista pacotes instalados
 pip show nome-pacote              # Exibe detalhes de um pacote
+```
