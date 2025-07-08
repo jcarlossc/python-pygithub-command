@@ -22,8 +22,10 @@ if __name__ == "__main__":
 
     # Cria repositório
     # invocar.adicionar_comandos(CriarRepositorioComando(servico, nome_repositorio))
+
     # Cria README.md
     # invocar.adicionar_comandos(CriarReadmeComando(servico, nome_repositorio))
+    
     # Cria .gitignore
     # invocar.adicionar_comandos(CriarGitignoreComando(servico, nome_repositorio))
 
