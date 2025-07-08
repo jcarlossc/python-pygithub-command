@@ -72,14 +72,19 @@ python app.py
 # Para sair do ambiente virtual
 deactivate
 ```
+---
 
 ## Contribuição:
 
 Se quiser contribuir para este projeto, fique à vontade para enviar um pull request ou relatar problemas na seção de issues.
 
+---
+
 ## Licença:
 
 Este projeto é licenciado sob a Licença MIT.
+
+---
 
 ## Comandos importantes:
 
