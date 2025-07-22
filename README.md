@@ -1,4 +1,4 @@
-# Automação da Plataforma GitHub com PyGithub
+# Automação de tarefas na Plataforma GitHub com PyGithub
 
 Estudo sobre orientação a objetos em Python e uso do módulo **PyGithub** para automação de ações na plataforma GitHub. O projeto foi implementado com base no **padrão de projeto comportamental Command (Comando)**.
 
